@@ -30,5 +30,5 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ##  How to run
 
 1. Create database freelance.
-2. Go to app directory Run "php artisan migrate" on command line
+2. Go to app directory Run "php artisan migrate" on command line to create database tables
 3. Run "php artisan serve" and go to localhost:8000 to register and login
