@@ -27,8 +27,8 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost you and your team's skills by digging into our comprehensive video library.
 
-##How to run
+##  How to run
 
-Create database freelance.
-Go to app directory Run "php artisan migrate" on command line
-Run "php artisan serve" and go to localhost:8000 to register and login
+1. Create database freelance.
+2. Go to app directory Run "php artisan migrate" on command line
+3. Run "php artisan serve" and go to localhost:8000 to register and login
